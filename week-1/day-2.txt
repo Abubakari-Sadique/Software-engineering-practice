@@ -1,0 +1,28 @@
+1. Version control is a system that tracks changes to files over time, helping developers manage and collaborate on projects efficiently. GitHub is widely used because it provides cloud-based storage, collaboration tools, and easy version management for code.  
+
+2. To create a new repository:  
+- Log in to GitHub and click New Repository  
+- Enter a name and choose Public or Private  
+- Optionally, add a README file, .gitignore, and license  
+- Click Create Repository  
+
+3. A README file explains what the project is about, how to install and use it, and how others can contribute. A well-written README improves collaboration by providing clear instructions.  
+
+4. Public repositories allow anyone to view the code, making them ideal for open-source projects. Private repositories are restricted to authorized users, making them suitable for confidential work. Public repositories encourage contributions, while private ones provide security and control.  
+
+5. To make your first commit:  
+- Initialize Git in the project folder using git init  
+- Track changes using git add .  
+- Save the changes using git commit -m "Initial commit"  
+- Upload to GitHub using git push origin main  
+Commits help track project history and changes systematically.  
+
+6. A branch allows developers to work on different features separately. To create a branch, use git branch new-feature. Switch to it using git checkout new-feature. Merge it after completion using git merge new-feature. Branches prevent conflicts and keep the main code stable.  
+
+7. A pull request is used to propose changes to a project. The process involves pushing the branch to GitHub, opening a pull request for review, getting feedback from other developers, and merging it into the main branch after approval. This process ensures code quality and collaboration.  
+
+8. Forking copies a repository to your GitHub account, allowing independent contributions, while cloning downloads a repository to your local computer for direct work. Forking is useful for contributing to open-source projects, whereas cloning is for working on existing projects locally.  
+
+9. Issues are used to track bugs, new features, or improvements, while project boards organize tasks using categories like "To Do," "In Progress," and "Completed." For example, a developer can use issues to report bugs and project boards to track progress.  
+
+10. Common challenges include merge conflicts, outdated branches, and unclear commit messages. Best practices include committing regularly, using meaningful messages, and updating branches frequently. Following best practices ensures smooth collaboration and efficient version control.
