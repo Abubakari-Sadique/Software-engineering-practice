@@ -1,0 +1,25 @@
+1. Timely delivery is crucial in software project management because delays can lead to increased costs, missed opportunities, and dissatisfied clients. Project managers can ensure deadlines are met by setting clear milestones, tracking progress regularly, and addressing risks early. Effective communication and prioritization also help teams stay on track.  
+
+2. Effective cost control ensures a project stays within budget, preventing financial losses. Strategies to prevent budget overruns include careful planning, monitoring expenses, adjusting scope when necessary, and using cost-tracking tools to detect issues early.  
+
+3. Agile is flexible, allowing for continuous feedback and adjustments, while Waterfall follows a structured, step-by-step approach. Agile is better for projects where requirements may change, but it requires constant collaboration. Waterfall works well for projects with fixed requirements but can be rigid if changes arise.  
+
+4. Agile is best for software with evolving needs, like mobile apps or web platforms that require frequent updates. Waterfall suits projects with clear, fixed goals, such as government or infrastructure-related software.  
+
+5. Quality assurance ensures the final product is reliable and functional. Methods include regular testing, peer reviews, automated testing, and user feedback. High standards prevent errors, reduce costs, and improve user satisfaction.  
+
+6. Defining the project scope prevents confusion and keeps the team focused. A Work Breakdown Structure (WBS) breaks tasks into smaller, manageable parts, making planning and execution easier.  
+
+7. A detailed project schedule helps teams stay organized and avoid delays. Gantt charts visually map tasks and deadlines, making it easier to track progress and adjust plans if needed.  
+
+8. The software addresses specific pain points, such as inefficiency, security risks, or communication gaps. Solving these problems makes users' work or daily lives easier, increasing the software's value.  
+
+9. Clearly defining the problem ensures the software directly addresses user needs. A well-defined problem statement helps developers create targeted solutions rather than wasting resources on unnecessary features.  
+
+10. The software solution should be described in a simple way that highlights its benefits. For example, instead of saying “AI-powered automation,” say “A tool that helps businesses save time by handling repetitive tasks automatically.”  
+
+11. Key features that make the software stand out could include ease of use, unique integrations, high-speed performance, or enhanced security. These features define its competitive edge.  
+
+12. Understanding market size and growth helps determine the software’s potential success. Market research can show demand, competitor gaps, and pricing strategies.  
+
+13. Market trends help position the software effectively. If there’s a growing need for cybersecurity, for instance, a security-focused software solution will be more appealing to businesses. Trends guide product development to meet user expectations.
